@@ -15,7 +15,7 @@ class Alipay extends Gateway
             'display_name' => '支付宝Paymenter支付插件',
             'version' => '1.0.0',
             'author' => 'muzihuaner',
-            'website' => 'https://yourwebsite.com',
+            'website' => 'https://github.com/muzihuaner/Alipay-Paymenter',
         ];
     }
 
