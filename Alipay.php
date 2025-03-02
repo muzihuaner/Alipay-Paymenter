@@ -12,9 +12,9 @@ class Alipay extends Gateway
     public function getMetadata()
     {
         return [
-            'display_name' => '支付宝支付',
+            'display_name' => '支付宝Paymenter支付插件',
             'version' => '1.0.0',
-            'author' => 'YourName',
+            'author' => 'muzihuaner',
             'website' => 'https://yourwebsite.com',
         ];
     }
