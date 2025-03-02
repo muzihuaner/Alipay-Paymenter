@@ -7,6 +7,8 @@ A easy way to integrate Alipay into Paymenter
 Download the code and place it in the `app/Extensions/Gateways/Alipay` directory.
 下载代码并将其放在 `app/Extensions/Gateways/Alipay` 目录中。
 
+To use this payment interface, you need to:
+Install Alipay SDK:
 要使用这个支付接口，你需要：
 安装支付宝 SDK：
 ```
