@@ -20,6 +20,16 @@ In the admin panel, go to `Settings > Payment Gateways` and click on the `Alipay
 
 在管理面板中，转到“设置 > 支付网关”，然后单击“Alipay”网关。输入相关信息，然后按“保存”。
 
+Apply for an application on the Alipay open platform and obtain the necessary parameters:
+Application ID (app_id)
+Application private key (private_key)
+Alipay public key (alipay_public_key)
+
+在支付宝开放平台申请应用并获取必要的参数：
+应用ID（app_id）
+应用私钥（private_key）
+支付宝公钥（alipay_public_key）
+
 ## 使用 Usage
 When a user selects the `Alipay` gateway, they will be redirected to the Alipay payment page. After the payment is completed, the user will be redirected back to the site. 
 
